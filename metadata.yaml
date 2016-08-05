@@ -1,0 +1,34 @@
+_repo: Tomaso-s-Fortune-and-Other-Stories_6974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merriman, Henry Seton
+    aliases:
+    - Scott, Hugh Stowell
+    - Merriman, H. Seton (Henry Seton)
+    birthdate: 1862
+    deathdate: 1903
+    gutenberg_agent_id: '1312'
+    url: http://www.gutenberg.org/2009/agents/1312
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Stowell_Scott
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Sister -- A small world -- In a crooked way -- The tale of a scorpion
+  -- On the rocks -- "Golossa-a-l" -- The mule -- In love and war -- Tomaso's fortune
+  -- Stranded -- Putting things right -- For Juanita's sake -- At the front -- The
+  end of the "Mooroo" -- In a caravan -- In the track of the wandering Jew -- Through
+  the gate of tears -- A pariah -- The prodigal's return.
+title: Tomaso's Fortune and Other Stories
+url: http://www.gutenberg.org/ebooks/6974
